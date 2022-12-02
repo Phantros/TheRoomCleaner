@@ -5,6 +5,7 @@ Thank your for playing my prototype; 'The Room Cleaner'.
 
 How To Play: <br />
 Open the StartScreenScene and start the application. <br />
+You can find the StartScreenScene under assets/scenes <br />
 In the start screen, press the start button to start playing. <br />
 In the playing scene, press ESC to exit back to the start screen. <br />
 If the player finishes the game, the game navigates to the end screen. There you can either pick play again or go back to main.  <br />
