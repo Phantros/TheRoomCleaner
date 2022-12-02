@@ -22,7 +22,8 @@ Clean your room! Pick up all the colored items in the room and shoot them at the
 Design: <br />
 Considering distraction from pain, some conributing factors are counting and doing puzzles. I've tried incorperating these elements in the game-mechanics. 
 Since the target demographic is children, I chose for a colorful design, with different shaped objects for the eye. I've also chosen a simpler game-design. The puzzle element is shooting the correct colored bullet at the correctly colored target. The counting element is the score the player gets. <br />
-The age bracket would be around 8+. However, it is very possible that children these days are much better at fps games than me, so maybe 6 - 7 year olds can play as well. <br/ >
+The age bracket would be around 8+. However, it is very possible that children these days are much better at fps games than me, so maybe 6 - 7 year olds can play as well. <br />
+
 There are two ways to finish the game. Either the player picked up and shot all the items, or the time runs out. 
 
 Thematic design: <br />
